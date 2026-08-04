@@ -7,7 +7,7 @@ I makes things.
   - [The Timeless Way of Building](https://www.goodreads.com/search?q=The+Timeless+Way+of+Building+Christopher+Alexander)
   - [A Pattern Language](https://www.goodreads.com/search?q=A+Pattern+Language+Christopher+Alexander)
   - [The Man Who Loved Only Numbers](https://www.goodreads.com/search?q=The+Man+Who+Loved+Only+Numbers+Erdos)
-  - [Ecclesiastes](https://www.goodreads.com/search?q=Ecclesiastes) (the most metal book in the Bible, fight me)
+  - [Ecclesiastes](https://www.goodreads.com/search?q=Ecclesiastes)
   - [The Denial of Death](https://www.goodreads.com/search?q=The+Denial+of+Death+Ernest+Becker)
   - [Man and His Symbols](https://www.goodreads.com/search?q=Man+and+His+Symbols+Jung)
   - [The Myth of Sisyphus](https://www.goodreads.com/search?q=The+Myth+of+Sisyphus+Camus)
