@@ -1,8 +1,8 @@
 ## hey 👋
 
-I makes things. 
+I makes things.
 
-- 🦀 mostly Rust and Typescript for personal projects. Java, Python, C#, and TypeScript for professional ones.
+- 🦀 mostly Rust and Typescript for personal projects. Java, Python, C#, and TypeScript for professional ones
 - 📖 books I keep coming back to, or need to finish:
   - [The Timeless Way of Building](https://www.goodreads.com/search?q=The+Timeless+Way+of+Building+Christopher+Alexander)
   - [A Pattern Language](https://www.goodreads.com/search?q=A+Pattern+Language+Christopher+Alexander)
